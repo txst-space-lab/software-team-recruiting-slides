@@ -166,7 +166,7 @@ Build and operate real spacecraft • C++ • Python • Java • Linux
   </div>
   <div>
     <video controls class="rounded-lg shadow-lg" preload="metadata">
-      <source src="./images/maia_assembly_timelapse.mov" type="video/quicktime">
+      <source src="./images/maia_assembly_timelapse.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
     <p class="mt-2 text-sm">Timelapse of PROVES - Maia satellite assembly in a clean room at TXST</p>

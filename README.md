@@ -1,11 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# TXST Space Lab Software Recruitment
 
 To start the slide show:
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+- Install [bun](https://bun.sh/)
+- Run `bun run dev`
 
 Edit the [slides.md](./slides.md) to see the changes.
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
