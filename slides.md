@@ -193,18 +193,18 @@ Build and operate real spacecraft • C++ • Python • Java • Linux
     <ul>
       <li>Timeline
         <ul>
-          <li>Application due <strong>Sunday, February 1 by 11:59pm</strong></li>
-          <li>Interviews <strong>February 2-6</strong></li>
+          <li>Application due <strong>Sunday, February 8 by 11:59pm</strong></li>
+          <li>Interviews <strong>February 9-11</strong></li>
           <li>Decisions announced <strong>Sunday, February 15</strong></li>
         </ul>
       </li>
       <li>Prepare
         <ul>
-          <li><strong>C++/Python/Java</strong> basics</li>
-          <li><strong>Data structures &amp; algorithms</strong></li>
+          <li>Mastery of the language of <strong>your choice</strong></li>
+          <li><strong>Data structures</strong> &amp; <strong>algorithms</strong></li>
         </ul>
       </li>
-      <li><strong>Questions?</strong></li>
+      <li>Questions?</li>
     </ul>
   </div>
   <div>

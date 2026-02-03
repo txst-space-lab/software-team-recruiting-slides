@@ -7,3 +7,5 @@ To start the slide show:
 
 Edit the [slides.md](./slides.md) to see the changes.
 
+
+To deploy updated slides to the Github site, push changes to `main`
